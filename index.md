@@ -1,5 +1,1 @@
-# h1
-## h2
-#### h4
-
-I have created titles
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
