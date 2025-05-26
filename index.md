@@ -1,0 +1,3 @@
+- [x] Enceder
+- [ ] Trabajar
+- [ ] Apagar
